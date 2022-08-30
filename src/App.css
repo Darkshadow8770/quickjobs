@@ -1,0 +1,18 @@
+.nom {
+  font-weight: bold;
+  font-size: 180%;
+  color: black;
+}
+
+.nom:hover{
+  color: black;
+}
+
+.liens {
+  padding-left: 20%;
+}
+
+.liens li{
+  margin-right: 40px;
+  font-size: 18px;
+}
